@@ -1,4 +1,4 @@
-# Advent of Code 2021 
+# Advent of Code 2021
 
 The following repository contains my work for the 2021 [Advent of Code competition.](https://adventofcode.com) My completion times and finishing places are listed below.  I only heard about the contest on December 1st which explains why my compeltion time for that day is so late. (or maybe I spent 22 hours learning how to iterate through an array)
 
@@ -8,3 +8,4 @@ The following repository contains my work for the 2021 [Advent of Code competiti
 | 2   | 00:02:56    | 930         | 00:06:17    | 1706        |
 | 3   | 00:14:30    | 5033        | 01:16:37    | 8331        |
 | 4   | 00:19:16    | 1133        | 00:23:18    | 896         |
+| 5   | 00:15:15    | 1589        | 00:24:12    | 1415        |
