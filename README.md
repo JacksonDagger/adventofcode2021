@@ -10,3 +10,4 @@ The following repository contains my work for the 2021 [Advent of Code competiti
 | 4   | 00:19:16    | 1133        | 00:23:18    | 896         |
 | 5   | 00:15:15    | 1589        | 00:24:12    | 1415        |
 | 6   | 00:03:26    | 150         | 00:11:35    | 688         |
+| 7   | 00:03:05    | 444         | 00:06:17    | 598         |
