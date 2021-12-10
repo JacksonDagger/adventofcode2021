@@ -1,6 +1,8 @@
 # Advent of Code 2021
 
-The following repository contains my work for the 2021 [Advent of Code competition.](https://adventofcode.com) My completion times and finishing places are listed below.  I only heard about the contest on December 1st which explains why my compeltion time for that day is so late. (or maybe I spent 22 hours learning how to iterate through an array)
+The following repository contains my work for the 2021 [Advent of Code competition.](https://adventofcode.com) My completion times and finishing places are listed below.  I only heard about the contest on December 1st which explains why my compeltion time for that day is so late. (or maybe I spent 22 hours learning how to iterate through an array)  
+
+It should be noted that the code herein represents my attempts to code as fast as possible. The lack of commenting and the butchering of some data structures is a reflection of my attempts at speedcoding, not how I generally develop.  
 
 | Day | Part 1 time | Part 1 rank | Part 2 time | Part 2 rank |
 | --- | ----------- | ----------- | ----------- | ----------- |
