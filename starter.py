@@ -6,6 +6,9 @@ def main():
     else:   
         with open('input.txt', 'r') as f:
             strlines = f.readlines()
+    
+    lines = [line.strip() for line in strlines]
+    
 
 if __name__ == '__main__':
     main()
