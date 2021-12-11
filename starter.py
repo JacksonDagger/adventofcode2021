@@ -1,3 +1,5 @@
+import statistics
+
 def main():
     test = False
     if test:
@@ -8,7 +10,7 @@ def main():
             strlines = f.readlines()
     
     lines = [line.strip() for line in strlines]
-    
+
 
 if __name__ == '__main__':
     main()

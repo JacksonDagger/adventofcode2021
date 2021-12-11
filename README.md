@@ -16,3 +16,4 @@ It should be noted that the code herein represents my attempts to code as fast a
 | 8   | 00:06:38    | 648         | 00:36:48    | 710         |
 | 9   | 00:04:48    | 266         | 00:38:32    | 2816        |
 | 10  | 00:06:20    | 504         | 00:26:35    | 2981        |
+| 11  | 00:12:35    | 420         | 00:14:32    | 384         |
