@@ -3,14 +3,13 @@ import statistics
 def main():
     test = False
     if test:
-        with open('test.txt', 'r') as f:
+        with open('test', 'r') as f:
             strlines = f.readlines()
     else:   
-        with open('input.txt', 'r') as f:
+        with open('input', 'r') as f:
             strlines = f.readlines()
     
     lines = [line.strip() for line in strlines]
-
 
 if __name__ == '__main__':
     main()
