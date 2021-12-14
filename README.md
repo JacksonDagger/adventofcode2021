@@ -19,3 +19,4 @@ It should be noted that the code herein represents my attempts to code as fast a
 | 11  | 00:12:35    | 420         | 00:14:32    | 384         |
 | 12  | 00:17:59    | 1275        | 00:28:59    | 1121        |
 | 13  | 00:10:37    | 429         | 00:30:12    | 2076        |
+| 14  | 00:19:36    | 3203        | 00:54:13    | 2477        |
