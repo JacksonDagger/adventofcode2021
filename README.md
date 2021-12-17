@@ -22,3 +22,5 @@ It should be noted that the code herein represents my attempts to code as fast a
 | 14  | 00:19:36    | 3203        | 00:54:13    | 2477        |
 | 15  | 00:32:53    | 2224        | 23:55:09    | 23438       |
 | 16  | 00:31:11    | 392         | 00:38:02    | 363         |
+| 17  | 00:39:06    | 2675        | 00:41:07    | 1811        |
+
